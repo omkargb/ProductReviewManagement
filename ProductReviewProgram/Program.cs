@@ -43,6 +43,7 @@ namespace ProductReviewProgram
             pm.Top3Products(ProductList);
             pm.RetriveRecords(ProductList);
             pm.CountOfUser(ProductList);
+            pm.ShowProductIDAndReview(ProductList);
 
         }
     }
